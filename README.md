@@ -2,6 +2,15 @@
 
 Template repository for the Jetpack Compose [#AndroidDevChallenge](https://developer.android.com/dev-challenge).
 
+## Week #1 - Puppy adoption app
+Let’s start the #AndroidDevChallenge with a bang bark: build a puppy adoption app! The app should contain an overview screen that displays a list of puppies, and a detail screen showing each puppy's details. You have until March 2nd, 23:59 PST to submit your entry. 2
+
+Your UI must be fully built in Compose. Your submission will only be judged based on your app’s UI layer. To help you with the implementation, check out the Compose documentation on layouts, lists, text and navigation. For some paws-on learning try out the Compose pathway, with codelabs covering several topics useful in completing this challenge.
+
+Are you a 🐱rather than a 🐶 person? Submissions for any type of pet adoption app are welcomed.
+
+We look forward to seeing what you build!
+
 ## Getting started
 Copy this repository by pressing the "Use this template" button in Github.
 Clone your repository and open it in the latest [Android Studio (Canary build)](https://developer.android.com/studio/preview).
